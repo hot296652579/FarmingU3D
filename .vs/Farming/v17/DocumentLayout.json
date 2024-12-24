@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProject\\Farming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|e:\\unityproject\\farming\\assets\\script\\inventory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|E:\\UnityProject\\Farming\\assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|E:\\UnityProject\\Farming\\assets\\script\\inventory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|E:\\UnityProject\\Farming\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|E:\\UnityProject\\Farming\\assets\\script\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentData.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Farming\\Assets\\Script\\Inventory\\EquipmentData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventory\\EquipmentData.cs",
+              "ToolTip": "E:\\UnityProject\\Farming\\Assets\\Script\\Inventory\\EquipmentData.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventory\\EquipmentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:20:24.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Farming\\Assets\\Script\\Inventory\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventory\\ItemData.cs",
+              "ToolTip": "E:\\UnityProject\\Farming\\Assets\\Script\\Inventory\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventory\\ItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:13:00.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Farming\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "E:\\UnityProject\\Farming\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:29:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Farming\\Assets\\Script\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerInteraction.cs",
+              "ToolTip": "E:\\UnityProject\\Farming\\Assets\\Script\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerInteraction.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:51:36.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Land.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Farming\\Assets\\Script\\Land.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Land.cs",
+              "ToolTip": "E:\\UnityProject\\Farming\\Assets\\Script\\Land.cs",
+              "RelativeToolTip": "Assets\\Script\\Land.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:37:32.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
